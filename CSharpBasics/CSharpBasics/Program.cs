@@ -105,13 +105,3 @@ while (age < 6)
 Console.WriteLine(greeting + " " + name);
 
 
-
-
-
-
-
-
-
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-

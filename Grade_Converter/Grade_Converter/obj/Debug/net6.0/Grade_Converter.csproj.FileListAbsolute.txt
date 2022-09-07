@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/bin/Debug/net6.0/Grade_Converter
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/bin/Debug/net6.0/Grade_Converter.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/bin/Debug/net6.0/Grade_Converter.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/bin/Debug/net6.0/Grade_Converter.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/bin/Debug/net6.0/Grade_Converter.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/refint/Grade_Converter.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/Grade_Converter.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Grade_Converter/Grade_Converter/obj/Debug/net6.0/ref/Grade_Converter.dll
