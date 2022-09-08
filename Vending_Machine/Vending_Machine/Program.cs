@@ -7,17 +7,36 @@ string[] input;
 double amount_due = 50;
 bool repeat = true;
 
+
+static float number()
+{
+    float input;
+    try
+    {
+        Console.WriteLine("Insert Coin: ");
+        input = float.Parse(Console.ReadLine());
+    }
+    catch (Exception)
+    {
+        Console.WriteLine("Error: only numbers 1,5,10,25 allowed");
+        return -1;
+    }
+    return input;
+}
+
+
 /* run a loop as long the amount entered is less than 0.60 or repeat is true */
 while (amount_due > 0)
 {
-    //prompt and read a coin
     Console.WriteLine("Amount Due: " + amount_due);
-    Console.Write("Enter a coin: ");
-    int coin_Entered = Convert.ToInt32(Console.ReadLine());
-
-    amount_due = amount_due - coin_Entered;
-
+    float num = number();
+    if (num == 1 && num == 5 && num == 10 && num == 25)
+    {
+        amount_due = amount_due - num;
+    }
+    else if ((num != 1 && num != 5 && num != 10 && num != 25))
+    {
+        Console.WriteLine($"Error: only numbers 1,5,10,25 allowed.");
+    }
 }
-int change_owed = 0;
-Console.Write("Change Owed: 0");
 
