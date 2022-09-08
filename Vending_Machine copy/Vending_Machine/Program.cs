@@ -31,16 +31,15 @@ namespace GradeConverter
         static void Main(string[] args)
         {
             double amount_due = 50;
+            double change_due = 0;
 
-           
+            /* run a loop as long the amount entered is less than 0.60 or repeat is true */
             while (amount_due > 0)
             {
-                // 
                 Console.WriteLine("Amount Due: " + amount_due);
                 float num = number();
-
-                // if number is within range, take number, otherwise request again
-                if (num == 1 || num == 5 || num == 10 || num == 25)
+                //Console.WriteLine(num);
+                if (1 <= num && num <= 25 && num % 5 == 0 || num == 1)
                 {
                     amount_due = amount_due - num;
                 }
@@ -50,7 +49,6 @@ namespace GradeConverter
                 }
                
             }
-            // if numer
             if (amount_due < 0)
             {
                 amount_due = Math.Abs(amount_due);
@@ -58,13 +56,14 @@ namespace GradeConverter
                 Console.WriteLine(amount_due);
 
             }
-            else if (amount_due == 0)
+            else
             {
-                Console.WriteLine("Change Due: ", amount_due);
-                Console.WriteLine(amount_due);
+                System.Environment.Exit(1);
+
             }
-  
+
             System.Environment.Exit(1);
         }
     }
+      
 }

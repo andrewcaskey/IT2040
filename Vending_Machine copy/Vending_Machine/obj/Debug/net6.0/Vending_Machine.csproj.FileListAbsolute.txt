@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/bin/Debug/net6.0/Vending_Machine
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/bin/Debug/net6.0/Vending_Machine.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/bin/Debug/net6.0/Vending_Machine.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/bin/Debug/net6.0/Vending_Machine.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/bin/Debug/net6.0/Vending_Machine.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/refint/Vending_Machine.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/Vending_Machine.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Vending_Machine/Vending_Machine/obj/Debug/net6.0/ref/Vending_Machine.dll
