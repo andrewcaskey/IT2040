@@ -1,14 +1,10 @@
 ﻿<Properties StartupConfiguration="{94008813-D47E-43DA-895D-D0BB4AF23C9A}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Vending__Machine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Vending_Machine/Program.cs">
     <Files>
-      <File FileName="Vending_Machine/Program.cs" Line="16" Column="25" />
+      <File FileName="Vending_Machine/Program.cs" Line="34" Column="1" />
       <File FileName="../Grade_Converter/Grade_Converter/Program.cs" Line="7" Column="6" />
     </Files>
     <Pads>
@@ -24,4 +20,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
