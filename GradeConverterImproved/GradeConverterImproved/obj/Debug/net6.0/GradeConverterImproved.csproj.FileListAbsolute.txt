@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/bin/Debug/net6.0/GradeConverterImproved
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/bin/Debug/net6.0/GradeConverterImproved.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/bin/Debug/net6.0/GradeConverterImproved.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/bin/Debug/net6.0/GradeConverterImproved.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/bin/Debug/net6.0/GradeConverterImproved.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/refint/GradeConverterImproved.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/GradeConverterImproved.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/GradeConverterImproved/GradeConverterImproved/obj/Debug/net6.0/ref/GradeConverterImproved.dll

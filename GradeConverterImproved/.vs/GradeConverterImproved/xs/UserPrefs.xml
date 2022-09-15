@@ -1,18 +1,16 @@
-﻿<Properties StartupConfiguration="{A362C16D-BB97-4BFD-9067-0AD09B49819D}|Default">
+﻿<Properties StartupConfiguration="{7DDC3ADC-6A67-43FB-8F48-D499B0504691}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Downloads/GradeConverter/Program.cs">
     <Files>
-      <File FileName="../../../../Downloads/GradeConverter/Program.cs" Line="88" Column="28" />
-      <File FileName="../../../../Projects/testingg/testingg/Program.cs" Line="6" Column="2" />
-      <File FileName="Grade_Converter/Program.cs" Line="84" Column="1" />
+      <File FileName="../Grade_Converter/Grade_Converter/Program.cs" Line="1" Column="1" />
+      <File FileName="GradeConverterImproved/Program.cs" Line="205" Column="2" />
+      <File FileName="../../../../Downloads/GradeConverter/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Grade_Converter" expanded="True">
-            <Node name="Grade_Converter" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="GradeConverterImproved" expanded="True">
+            <Node name="GradeConverterImproved" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,8 +20,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GradeConverterImproved PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Grade__Converter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
