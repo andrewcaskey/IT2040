@@ -10,22 +10,22 @@ namespace ImprovedGradeConverter
         static string getName()
         {
             Console.Write("Please Enter Your First Name And Last Name: ");
-            string userName = Console.ReadLine();
+            string name = Console.ReadLine();
 
-            return userName;
+            return name;
         }
 
         // Gets The Number Of Grades The User Wants To Enter.
-        static int getNumberOfGrades()
+        static int getnumberGrades()
         {
             Console.Write("Enter The Number Of Grades You Need To Convert: ");
-            int numberOfGrades;
+            int numberGrades;
             while (true)
             {
                 try
                 {
-                    numberOfGrades = int.Parse(Console.ReadLine());
-                    return numberOfGrades;
+                    numberGrades = int.Parse(Console.ReadLine());
+                    return numberGrades;
                 }
                 catch (FormatException)
                 {
@@ -55,13 +55,13 @@ namespace ImprovedGradeConverter
             Console.WriteLine("\nGrade Statistics\n-------------------------");
 
             float averageGrade = getAverageGrade(scores);
-            float maximumGrade = getMaximumGrade(scores);
-            float minimumGrade = getMinimumGrade(scores);
+            float maxGrade = getMaxGrade(scores);
+            float minGrade = getMinGrade(scores);
 
             Console.WriteLine($"Number of grades: {scores.Count}");
             Console.WriteLine($"Average Grade: {averageGrade} Which Is a '{getLetterGrade(averageGrade)}'");
-            Console.WriteLine($"Maximum Grade: {maximumGrade} Which Is a '{getLetterGrade(maximumGrade)}'");
-            Console.WriteLine($"Minimum Grade: {minimumGrade} Which Is a '{getLetterGrade(minimumGrade)}'");
+            Console.WriteLine($"Maximum Grade: {maxGrade} Which Is a '{getLetterGrade(maxGrade)}'");
+            Console.WriteLine($"Minimum Grade: {minGrade} Which Is a '{getLetterGrade(minGrade)}'");
         }
 
         // Calculates And Returns The Average Grade
@@ -77,7 +77,7 @@ namespace ImprovedGradeConverter
         }
 
         // Returns The Highest Grade In The List Of Grades
-        static float getMaximumGrade(List<float> scores)
+        static float getMaxGrade(List<float> scores)
         {
             float max = float.MinValue;
             foreach (float score in scores)
@@ -92,7 +92,7 @@ namespace ImprovedGradeConverter
         }
 
         // Returns The Lowest Grade In The List Of Grades
-        static float getMinimumGrade(List<float> scores)
+        static float getMinGrade(List<float> scores)
         {
             float min = float.MaxValue;
             foreach (float score in scores)
@@ -155,20 +155,20 @@ namespace ImprovedGradeConverter
 
             Console.WriteLine("\nGrade Converter\n-------------------------\n");
 
-            string userName = getName();
+            string name = getName();
             string doAgain;
 
-            Console.WriteLine($"\nHello {userName}!\nWelcome To The Grade Converter!\n");
+            Console.WriteLine($"\nHello {name}!\nWelcome To The Grade Converter!\n");
 
             do
             {
                 // Get Number Of Grades
-                int numberOfGrades = getNumberOfGrades();
+                int numberGrades = getnumberGrades();
                 List<float> scores = new List<float>();
 
                 // Prompt The User To Enter The Grades.
                 Console.WriteLine("\nInput Grades\n-------------------------\n");
-                for (int i = 0; i < numberOfGrades; i++)
+                for (int i = 0; i < numberGrades; i++)
                 {
                     scores.Add(getScore());
                 }
