@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{EB221D04-B838-4BE9-89A9-6C86024A4CE5}|Default">
+﻿<Properties StartupConfiguration="{A7FAA26E-3E8A-4EE6-8C76-D3751340D6DC}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Document PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MenuOrder PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Document/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Notesmodule5/Notesmodule5/Program.cs">
     <Files>
-      <File FileName="Document/Program.cs" Line="84" Column="6" />
-      <File FileName="../Grade_Converter/Grade_Converter/Program.cs" Line="119" Column="43" />
+      <File FileName="../Notesmodule5/Notesmodule5/Program.cs" Line="24" Column="66" />
+      <File FileName="MenuOrder/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Document" expanded="True">
-            <Node name="Document" expanded="True" />
+          <Node name="MenuOrder" expanded="True">
+            <Node name="MenuOrder" expanded="True" />
           </Node>
         </State>
       </Pad>

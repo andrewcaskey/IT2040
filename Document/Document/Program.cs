@@ -1,11 +1,15 @@
-﻿
+﻿using System;
+using System.IO;
+using System.Windows;
+using static System.Net.Mime.MediaTypeNames;
+
 namespace Document
 {
 
     class Document
     {
 
-        static void Main(string[] args)
+        static void RunOnce()
         {
 
             try
@@ -46,11 +50,7 @@ namespace Document
                     l++;
                 }
 
-
-
-
                 Console.WriteLine(filename + " was successfully saved. The document contains " + wrd + " words");
-
             }
 
             catch (Exception e)
@@ -61,9 +61,31 @@ namespace Document
 
             }
 
+
         }
 
+
+            static void Main(string[] args)
+            {
+
+
+                do
+                {
+                    RunOnce();
+                    Console.WriteLine("Would you like to write another file? (y/n)"); // prompt for running again
+                    char c = Console.ReadLine()[0]; // reading first character
+                    if (c == 'n') // checking for 'no' option
+                        break; // break the loop
+                } while (true); // run again
+
+            }
+
+        }
     }
 
-}
+
+
+    
+
+
 
