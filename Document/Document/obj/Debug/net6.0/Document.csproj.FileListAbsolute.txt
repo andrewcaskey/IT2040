@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/bin/Debug/net6.0/Document
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/bin/Debug/net6.0/Document.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/bin/Debug/net6.0/Document.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/bin/Debug/net6.0/Document.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/bin/Debug/net6.0/Document.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/refint/Document.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/Document.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Document/Document/obj/Debug/net6.0/ref/Document.dll

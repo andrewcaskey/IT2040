@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/bin/Debug/net6.0/Notesmodule5
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/bin/Debug/net6.0/Notesmodule5.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/bin/Debug/net6.0/Notesmodule5.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/bin/Debug/net6.0/Notesmodule5.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/bin/Debug/net6.0/Notesmodule5.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/refint/Notesmodule5.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/Notesmodule5.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Notesmodule5/Notesmodule5/obj/Debug/net6.0/ref/Notesmodule5.dll
