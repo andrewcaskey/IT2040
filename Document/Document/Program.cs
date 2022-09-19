@@ -17,12 +17,12 @@ namespace Document
 
                 Console.WriteLine("Document");
 
+                // get document title
                 Console.WriteLine("Enter Document Title:");
-
                 string name = Console.ReadLine();
 
+                // get document content
                 Console.WriteLine("Enter Document Content:");
-
                 string str = Console.ReadLine();
 
                 string filename = name + ".txt";
@@ -32,11 +32,10 @@ namespace Document
                 if (!File.Exists(path))
 
                 {
-
                     File.WriteAllText(path, str);
-
                 }
 
+                // while loop to count words in text 
                 int l = 0;
                 int wrd = 1;
                 while (l <= str.Length - 1)
@@ -64,11 +63,8 @@ namespace Document
 
         }
 
-
             static void Main(string[] args)
             {
-
-
                 do
                 {
                     RunOnce();

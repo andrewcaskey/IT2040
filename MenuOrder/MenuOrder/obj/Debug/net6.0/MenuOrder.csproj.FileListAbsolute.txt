@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/bin/Debug/net6.0/MenuOrder
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/bin/Debug/net6.0/MenuOrder.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/bin/Debug/net6.0/MenuOrder.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/bin/Debug/net6.0/MenuOrder.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/bin/Debug/net6.0/MenuOrder.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/refint/MenuOrder.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/MenuOrder.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MenuOrder/MenuOrder/obj/Debug/net6.0/ref/MenuOrder.dll
