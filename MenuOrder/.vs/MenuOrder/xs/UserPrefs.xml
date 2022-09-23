@@ -1,6 +1,11 @@
 ﻿<Properties StartupConfiguration="{A7FAA26E-3E8A-4EE6-8C76-D3751340D6DC}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MenuOrder PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MenuOrder/Program.cs">
     <Files>
       <File FileName="MenuOrder/Program.cs" Line="48" Column="72" />
@@ -9,7 +14,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MenuOrder" expanded="True">
-            <Node name="MenuOrder" expanded="True" />
+            <Node name="MenuOrder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -18,9 +25,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.MenuOrder PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
