@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/bin/Debug/net6.0/DocumentMerger
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/bin/Debug/net6.0/DocumentMerger.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/bin/Debug/net6.0/DocumentMerger.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/bin/Debug/net6.0/DocumentMerger.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/bin/Debug/net6.0/DocumentMerger.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/refint/DocumentMerger.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/DocumentMerger.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/DocumentMerger/DocumentMerger/obj/Debug/net6.0/ref/DocumentMerger.dll
