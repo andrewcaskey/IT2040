@@ -9,6 +9,7 @@ namespace DocumentMerger
         {
             try
             {
+                // enter text files, if does not exist prompt user to try again
                 Console.Write("Enter First text File: ");
                 string file1 = Console.ReadLine();
                 while (!File.Exists(file1))
@@ -26,13 +27,14 @@ namespace DocumentMerger
                 }
 
 
+                // split text files into new file
 
                 string newFile = file1.Split('.')[0] + file2.Split('.')[0] + ".txt";
 
 
 
 
-
+                // create new file
                 string allText = System.IO.File.ReadAllText(file1);
                 allText += "\r\n";
                 allText += System.IO.File.ReadAllText(file2);

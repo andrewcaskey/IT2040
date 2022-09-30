@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AA4CE361-5DDB-455A-BDA8-3999845E7E8C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fuel__Gage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fuel_Gage/Program.cs">
+    <Files>
+      <File FileName="Fuel_Gage/Program.cs" Line="54" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fuel_Gage" expanded="True">
+            <Node name="Fuel_Gage" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

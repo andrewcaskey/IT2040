@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/bin/Debug/net6.0/Fuel_Gage
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/bin/Debug/net6.0/Fuel_Gage.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/bin/Debug/net6.0/Fuel_Gage.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/bin/Debug/net6.0/Fuel_Gage.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/bin/Debug/net6.0/Fuel_Gage.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/refint/Fuel_Gage.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/Fuel_Gage.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Fuel_Gage/Fuel_Gage/obj/Debug/net6.0/ref/Fuel_Gage.dll

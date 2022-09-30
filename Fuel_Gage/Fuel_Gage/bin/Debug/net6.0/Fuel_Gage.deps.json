@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fuel_Gage/1.0.0": {
+        "runtime": {
+          "Fuel_Gage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fuel_Gage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
