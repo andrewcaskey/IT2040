@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{D04F7104-0046-4D5B-B438-2769AB3B29B6}|Default">
-  <MonoDevelop.Ide.ItemProperties.Student__Score__Report FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student_Score_Report/Program.cs">
+    <Files>
+      <File FileName="Student_Score_Report/Program.cs" Line="128" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Student_Score_Report" expanded="True">
+            <Node name="Student_Score_Report" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Student__Score__Report PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
