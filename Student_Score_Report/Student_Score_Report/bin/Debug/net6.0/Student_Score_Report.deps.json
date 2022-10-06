@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Student_Score_Report/1.0.0": {
+        "runtime": {
+          "Student_Score_Report.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student_Score_Report/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

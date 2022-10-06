@@ -1,0 +1,6 @@
+Student Summary
+-----------------------
+Number of students: 50
+Average Grade: 73.44%
+Maximum Grade: 93.59%
+Minimum Grade: 54.66%

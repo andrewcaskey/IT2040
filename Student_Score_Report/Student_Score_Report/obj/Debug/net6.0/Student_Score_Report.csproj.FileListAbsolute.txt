@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/bin/Debug/net6.0/Student_Score_Report
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/bin/Debug/net6.0/Student_Score_Report.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/bin/Debug/net6.0/Student_Score_Report.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/bin/Debug/net6.0/Student_Score_Report.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/bin/Debug/net6.0/Student_Score_Report.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/refint/Student_Score_Report.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/Student_Score_Report.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Student_Score_Report/Student_Score_Report/obj/Debug/net6.0/ref/Student_Score_Report.dll
