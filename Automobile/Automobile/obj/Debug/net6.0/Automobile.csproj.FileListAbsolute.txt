@@ -1,0 +1,15 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/bin/Debug/net6.0/Automobile
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/bin/Debug/net6.0/Automobile.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/bin/Debug/net6.0/Automobile.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/bin/Debug/net6.0/Automobile.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/bin/Debug/net6.0/Automobile.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/refint/Automobile.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/Automobile.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Automobile/Automobile/obj/Debug/net6.0/ref/Automobile.dll
