@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{E3F37367-96AB-4AF6-B842-39FFD767BE01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Automobile/Program.cs">
+    <Files>
+      <File FileName="Automobile/Program.cs" Line="36" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Automobile" expanded="True">
+            <Node name="Automobile" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Automobile FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Automobile PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
