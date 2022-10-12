@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ConsoleApp26
+namespace Automobile
 {
     enum AutoType { Sedan, Truck, Van, SUV };
     class Automobile
