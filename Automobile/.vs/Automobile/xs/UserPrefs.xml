@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{E3F37367-96AB-4AF6-B842-39FFD767BE01}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Automobile/Program.cs">
     <Files>
-      <File FileName="Automobile/Program.cs" Line="36" Column="10" />
+      <File FileName="Automobile/Program.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,11 +16,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Automobile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Automobile PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
