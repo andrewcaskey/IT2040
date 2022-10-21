@@ -12,6 +12,9 @@ namespace MidtermProject
         private string id;
         private empType type;
 
+
+
+        // constructor that accepts firstName, lastName, id, and empType to initialize a new instance of an Employee and sets its properties.
         public Employee(string fn, string ln, string i, empType ty)
         {
             firstName = fn;
@@ -19,12 +22,16 @@ namespace MidtermProject
             id = i;
             type = ty;
         }
+
+        // public method (function) that prints information about the person
         public void getEmployeeInfo()
         {
             string str;
             str = "Name: " + firstName + " " + lastName + "\nID: " + id + "; Type: " + type.ToString();
             Console.WriteLine(str);
         }
+
+        // methods for getting and setting firstname, lastname, type, ID
         public string getFirstName()
         {
             return firstName;

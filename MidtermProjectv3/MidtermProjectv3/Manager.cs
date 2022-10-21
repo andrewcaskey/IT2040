@@ -9,6 +9,7 @@ namespace MidtermProject
         private string department;
         private string region;
 
+        // 
         public Manager(string fn, string ln, string id, string dep, string reg) : base(fn, ln, id, empType.Production)
         {
             department = dep;

@@ -14,6 +14,7 @@ namespace MidtermProject
         private string id;
         private empType type;
 
+        // constructor that accepts firstName, lastName, id, department and, sales to initialize a new instance of a SalesPerson and set its properties
         public Salesperson(string fn, string ln, string id, string dp, int hr) : base(fn, ln, id, empType.Sales)
         {
             department = dp;
@@ -21,11 +22,13 @@ namespace MidtermProject
 
         }
 
+        // method that updates the sales property by adding "sales" to it
         public void updateSales(int profits)
         {
             sales += profits;
         }
 
+        // method that returns the salesperson's level
         public StudentClass GetSalesLevel()
         {
             if (sales < 10000)

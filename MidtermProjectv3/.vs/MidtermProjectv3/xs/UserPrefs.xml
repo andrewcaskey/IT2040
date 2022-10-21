@@ -3,19 +3,19 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermProjectv3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermProjectv3/Manager.cs">
     <Files>
-      <File FileName="MidtermProjectv3/Program.cs" Line="11" Column="51" />
-      <File FileName="MidtermProjectv3/Person.cs" Line="16" Column="10" />
-      <File FileName="MidtermProjectv3/Student.cs" Line="9" Column="6" />
-      <File FileName="MidtermProjectv3/Professor.cs" Line="28" Column="10" />
+      <File FileName="MidtermProjectv3/Program.cs" Line="34" Column="2" />
+      <File FileName="MidtermProjectv3/Person.cs" Line="34" Column="73" />
+      <File FileName="MidtermProjectv3/Professor.cs" Line="12" Column="12" />
+      <File FileName="MidtermProjectv3/Student.cs" Line="34" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MidtermProjectv3" expanded="True">
             <Node name="MidtermProjectv3" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Manager.cs" selected="True" />
             </Node>
           </Node>
         </State>
