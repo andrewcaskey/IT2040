@@ -1,0 +1,5 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv2/MidtermProjectv2/obj/Debug/net5.0/MidtermProjectv2.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv2/MidtermProjectv2/obj/Debug/net5.0/MidtermProjectv2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv2/MidtermProjectv2/obj/Debug/net5.0/MidtermProjectv2.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv2/MidtermProjectv2/obj/Debug/net5.0/MidtermProjectv2.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv2/MidtermProjectv2/obj/Debug/net5.0/MidtermProjectv2.csproj.CoreCompileInputs.cache

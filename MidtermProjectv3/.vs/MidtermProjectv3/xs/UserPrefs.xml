@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6F342A88-303D-4748-8BB9-82600C7C91CD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermProjectv3/Program.cs">
+    <Files>
+      <File FileName="MidtermProjectv3/Program.cs" Line="11" Column="51" />
+      <File FileName="MidtermProjectv3/Person.cs" Line="16" Column="10" />
+      <File FileName="MidtermProjectv3/Student.cs" Line="9" Column="6" />
+      <File FileName="MidtermProjectv3/Professor.cs" Line="28" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidtermProjectv3" expanded="True">
+            <Node name="MidtermProjectv3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MidtermProjectv3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

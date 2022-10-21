@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{01A45F98-BA58-48F0-9302-42313876FFCD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermProject/Employee.cs">
+    <Files>
+      <File FileName="MidtermProject/Program.cs" Line="12" Column="46" />
+      <File FileName="MidtermProject/Program copy.cs" Line="55" Column="51" />
+      <File FileName="MidtermProject/SalesPerson.cs" Line="16" Column="22" />
+      <File FileName="MidtermProject/Manager.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidtermProject" expanded="True">
+            <Node name="MidtermProject" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MidtermProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

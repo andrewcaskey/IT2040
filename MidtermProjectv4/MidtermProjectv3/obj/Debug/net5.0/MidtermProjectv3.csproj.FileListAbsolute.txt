@@ -1,0 +1,16 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/bin/Debug/net5.0/MidtermProjectv3
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/bin/Debug/net5.0/MidtermProjectv3.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/bin/Debug/net5.0/MidtermProjectv3.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/bin/Debug/net5.0/MidtermProjectv3.runtimeconfig.dev.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/bin/Debug/net5.0/MidtermProjectv3.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/bin/Debug/net5.0/MidtermProjectv3.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/refint/MidtermProjectv3.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/MidtermProjectv3.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/MidtermProjectv3/MidtermProjectv3/obj/Debug/net5.0/ref/MidtermProjectv3.dll
