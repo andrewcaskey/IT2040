@@ -1,0 +1,15 @@
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/bin/Debug/net5.0/LINQPractice.deps.json
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/bin/Debug/net5.0/LINQPractice.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/bin/Debug/net5.0/LINQPractice.runtimeconfig.dev.json
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/bin/Debug/net5.0/LINQPractice.dll
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/bin/Debug/net5.0/ref/LINQPractice.dll
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/bin/Debug/net5.0/LINQPractice.pdb
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.csprojAssemblyReference.cache
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.csproj.CoreCompileInputs.cache
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.dll
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/ref/LINQPractice.dll
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.pdb
+/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/Debug/net5.0/LINQPractice.genruntimeconfig.cache
