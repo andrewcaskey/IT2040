@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{45DEC5DE-6F5E-4630-9F40-4D4470A87743}|Default">
-  <MonoDevelop.Ide.ItemProperties.Analyze__Music__Projectv2 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Analyze__Music__Projectv2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Analyze_Music_Projectv2/Program.cs">
+    <Files>
+      <File FileName="Analyze_Music_Projectv2/Program.cs" Line="127" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
