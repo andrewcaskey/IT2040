@@ -1,0 +1,16 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/bin/Debug/net5.0/Analyze_Music_Playlist
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/bin/Debug/net5.0/Analyze_Music_Playlist.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/bin/Debug/net5.0/Analyze_Music_Playlist.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/bin/Debug/net5.0/Analyze_Music_Playlist.runtimeconfig.dev.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/bin/Debug/net5.0/Analyze_Music_Playlist.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/bin/Debug/net5.0/Analyze_Music_Playlist.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/refint/Analyze_Music_Playlist.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/Analyze_Music_Playlist.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Playlist/Analyze_Music_Playlist/obj/Debug/net5.0/ref/Analyze_Music_Playlist.dll

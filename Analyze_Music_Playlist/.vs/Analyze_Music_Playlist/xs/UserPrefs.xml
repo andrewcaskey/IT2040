@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{55DE1785-63DB-4CD5-8ED5-AFCB1A1C1C43}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Analyze__Music__Playlist PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Analyze_Music_Playlist/Program.cs">
+    <Files>
+      <File FileName="Analyze_Music_Playlist/Program.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Analyze_Music_Playlist" expanded="True">
+            <Node name="Analyze_Music_Playlist" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
