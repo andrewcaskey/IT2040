@@ -1,0 +1,16 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/bin/Debug/net5.0/Analyze_Music_Project
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/bin/Debug/net5.0/Analyze_Music_Project.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/bin/Debug/net5.0/Analyze_Music_Project.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/bin/Debug/net5.0/Analyze_Music_Project.runtimeconfig.dev.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/bin/Debug/net5.0/Analyze_Music_Project.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/bin/Debug/net5.0/Analyze_Music_Project.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/refint/Analyze_Music_Project.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/Analyze_Music_Project.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Analyze_Music_Project/Analyze_Music_Project/obj/Debug/net5.0/ref/Analyze_Music_Project.dll
