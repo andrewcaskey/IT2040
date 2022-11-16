@@ -1,0 +1,12 @@
+List of Items Sold to Customers in Australia:-
+Number of Individual Sales = 0
+Total Sales for invoice number 536365 = 0
+List of Total Sales by Country:-
+Customer ID that spent the most money = 0
+Total sales to customer 15311 = 0
+Number of the “HAND WARMER UNION JACK” sales = 0
+Value of the “HAND WARMER UNION JACK” sales = 0
+Product with the highest UnitPrice = 
+Total Sales = 0
+Invoice Number that had the highest sales = 0
+Product sold the most units = 

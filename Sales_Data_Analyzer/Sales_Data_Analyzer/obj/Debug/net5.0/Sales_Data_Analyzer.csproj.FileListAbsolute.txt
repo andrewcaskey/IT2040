@@ -1,0 +1,16 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/bin/Debug/net5.0/Sales_Data_Analyzer
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/bin/Debug/net5.0/Sales_Data_Analyzer.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/bin/Debug/net5.0/Sales_Data_Analyzer.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/bin/Debug/net5.0/Sales_Data_Analyzer.runtimeconfig.dev.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/bin/Debug/net5.0/Sales_Data_Analyzer.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/bin/Debug/net5.0/Sales_Data_Analyzer.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/refint/Sales_Data_Analyzer.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/Sales_Data_Analyzer.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzer/Sales_Data_Analyzer/obj/Debug/net5.0/ref/Sales_Data_Analyzer.dll
