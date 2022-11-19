@@ -1,0 +1,16 @@
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/bin/Debug/net5.0/Sales_Data_Analyzerv4
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/bin/Debug/net5.0/Sales_Data_Analyzerv4.deps.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/bin/Debug/net5.0/Sales_Data_Analyzerv4.runtimeconfig.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/bin/Debug/net5.0/Sales_Data_Analyzerv4.runtimeconfig.dev.json
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/bin/Debug/net5.0/Sales_Data_Analyzerv4.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/bin/Debug/net5.0/Sales_Data_Analyzerv4.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.AssemblyInfoInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.AssemblyInfo.cs
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.csproj.CoreCompileInputs.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/refint/Sales_Data_Analyzerv4.dll
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/Sales_Data_Analyzerv4.genruntimeconfig.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/Sales_Data_Analyzerv4/Sales_Data_Analyzerv4/obj/Debug/net5.0/ref/Sales_Data_Analyzerv4.dll

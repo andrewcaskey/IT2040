@@ -8,18 +8,24 @@ namespace AnalyzeMusicPlaylist
     // This class encapsulates the data pertaining to a song.
     class Song
     {
-        public string Name { get; set; }
-        public string Artist { get; set; }
-        public string Album { get; set; }
-        public string Genre { get; set; }
-        public string Size { get; set; }
-        public int Time { get; set; }
-        public int Year { get; set; }
-        public int Plays { get; set; }
+        public int invoice_id { get; set; }
+        public string branch { get; set; }
+        public string city { get; set; }
+        public string customer_type { get; set; }
+        public string gender { get; set; }
+        public int product_line { get; set; }
+        public float unit_price { get; set; }
+        public int quantity { get; set; }
+        public int date { get; set; }
+        public string payment { get; set; }
+        public float rating { get; set; }
+
+
+
 
         override public string ToString()
         {
-            return String.Format("Name: {0}, Artist: {1}, Album: {2}, Genre: {3}, Size: {4}, Time: {5}, Year: {6}, Plays: {7}", Name, Artist, Album, Genre, Size, Time, Year, Plays);
+            return String.Format("Invoice_id: {0}, Branch: {1}, City: {2}, Customer Type: {3}, Gender: {4}, Product Line: {5}, Unit Price: {6}, Quantity: {7}, Date: {8}, Payment: {9}, Rating: {10} ", invoice_id, branch, city, customer_type, gender, product_line, unit_price, quantity, date, payment, rating);
         }
     }
 
@@ -62,26 +68,18 @@ namespace AnalyzeMusicPlaylist
                         {
                             song = new Song
                             {
-                            int invoice_num = int.Parse(values[0]);
-                            string branch = values[1];
-                            string city = values[2];
-                            string customer_type = values[3];
-                            string gender = values[4];
-                            string product_line = values[5];
-                            float unit_price = float.Parse(values[6]);
-                            int quantity = int.Parse(values[7]);
-                            // Parsing the invoice date 
-                            string[] d = values[8].Split("/");
-                            int year = int.Parse(d[0]);
-                            int month = int.Parse(d[1]);
-                            int day = int.Parse(d[2]);
-                            DateTime date = new DateTime(year, month, day);
-                            // Parsing rest of  the data
-                            string payment = values[9];
-                            float rating = float.Parse(values[10]);
-                            // Adding the new sale to list
-                            sales.Add(new Sale(invoice_num, branch, city, customer_type, gender, product_line, unit_price, quantity, date, payment, rating));
-                        };
+                                invoice_id = Int32.Parse(split[0]),
+                                branch = split[1],
+                                city = split[2],
+                                customer_type = split[3],
+                                gender = split[4],
+                                product_line = Int32.Parse(split[5]),
+                                unit_price = Single.Parse(split[6]),
+                                quantity = Int32.Parse(split[7]),
+                                date = Int32.Parse(split[8]),
+                                payment = split[9],
+                                rating = Single.Parse(split[10]),
+                            };
                         }
                         catch (Exception)
                         {
@@ -92,7 +90,7 @@ namespace AnalyzeMusicPlaylist
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        Console.WriteLine(String.Format("Row {} contains {} values. It should contain 8.", line_Number, split.Length));
+                        Console.WriteLine(String.Format("Row {} contains {} values. It should contain 11.", line_Number, split.Length));
                         return;
                     }
                 }
