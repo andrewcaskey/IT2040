@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 struct Sale
 {
-    public int invoice_num;
+    public float invoice_num;
     public string branch;
     public string city;
     public string customer_type;
@@ -18,7 +18,7 @@ struct Sale
     public string payment;
     public float rating;
 
-    public Sale(int invoice_num, string branch, string city, string customer_type, string gender, string product_line, float unit_price, int quantity, DateTime date, string payment, float rating)
+    public Sale(float invoice_num, string branch, string city, string customer_type, string gender, string product_line, float unit_price, int quantity, DateTime date, string payment, float rating)
     {
         this.invoice_num = invoice_num;
         this.branch = branch;
@@ -77,7 +77,7 @@ class SalesDataAnalyzer
                         }
 
                         // Parsing data
-                        int invoice_num = int.Parse(values[0]);
+                        float invoice_num = float.Parse(values[0]);
                         string branch = values[1];
                         string city = values[2];
                         string customer_type = values[3];
@@ -110,12 +110,12 @@ class SalesDataAnalyzer
         // Writing the Report 
         try
         {
-            string line01 = "Total Sales";
-            string line02 = "Show the unique product lines in the data set";
-            string line03 = "Calculate the total sales for each product line. Sales total will be the sum of (Quantity * UnitPrice) for all products sold in the product line. List the product line and total sales.";
-            string line04 = "Calculate the total Sales per city? List the city name and total sales.";
+            string line01 = "Total Sales\n";
+            string line02 = "Show the unique product lines in the data set\n";
+            string line03 = "Calculate the total sales for each product line. Sales total will be the sum of (Quantity * UnitPrice) for all products sold in the product line. List the product line and total sales.\n";
+            string line04 = "Calculate the total Sales per city? List the city name and total sales.\n";
             string line05 = "Which product line(s) have the sale with the highest unit price? List the product line and the price.\n";
-            string line06 = "Calculate the total sales per month in the data set. List the city month and total sales";
+            string line06 = "Calculate the total sales per month in the data set. List the city month and total sales\n";
             string line07 = "Calculate the total sales per payment type. List the payment type and total sales.\n";
             string line08 = "Calculate the number of sales transactions per member type. List the member type and number of transactions.\n";
             string line09 = "Calculate the average rating per product line. List the product line and the average rating.\n ";

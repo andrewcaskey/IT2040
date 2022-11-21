@@ -1,12 +1,24 @@
-List of Items Sold to Customers in Australia:-
-Number of Individual Sales = 0
-Total Sales for invoice number 536365 = 0
-List of Total Sales by Country:-
-Customer ID that spent the most money = 0
-Total sales to customer 15311 = 0
-Number of the “HAND WARMER UNION JACK” sales = 0
-Value of the “HAND WARMER UNION JACK” sales = 0
-Product with the highest UnitPrice = 
-Total Sales = 0
-Invoice Number that had the highest sales = 0
-Product sold the most units = 
+Total Sales
+0
+Show the unique product lines in the data set
+0
+Calculate the total sales for each product line. Sales total will be the sum of (Quantity * UnitPrice) for all products sold in the product line. List the product line and total sales.
+0
+Calculate the total Sales per city? List the city name and total sales.
+
+Which product line(s) have the sale with the highest unit price? List the product line and the price.
+0
+Calculate the total sales per month in the data set. List the city month and total sales
+0
+Calculate the total sales per payment type. List the payment type and total sales.
+0
+Calculate the number of sales transactions per member type. List the member type and number of transactions.
+0
+Calculate the average rating per product line. List the product line and the average rating.
+ 
+Calculate the total number of transactions per payment type. List the payment type and number of transactions.
+0
+Calculate the total quantity of products sold per city. List the city and number of products sold.
+ 0
+Using a 5% sales tax, Calculate the tax for each sales transaction in each product line. List the invoice number, total sales for the transaction, and the tax amount for the transaction, ordered by the product line.
+

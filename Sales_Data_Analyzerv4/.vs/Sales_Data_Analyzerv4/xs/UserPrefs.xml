@@ -6,10 +6,19 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Sales_Data_Analyzerv4/Program.cs">
     <Files>
-      <File FileName="../Sales_Data_Analyzer/Sales_Data_Analyzer/Program.cs" Line="1" Column="1" />
-      <File FileName="Sales_Data_Analyzerv4/Program.cs" Line="143" Column="53" />
-      <File FileName="../Analyze_Music_Project/Analyze_Music_Project/Program.cs" Line="112" Column="1" />
+      <File FileName="../Sales_Data_Analyzer/Sales_Data_Analyzer/Program.cs" />
+      <File FileName="Sales_Data_Analyzerv4/Program.cs" Line="135" Column="29" />
+      <File FileName="../Analyze_Music_Project/Analyze_Music_Project/Program.cs" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sales_Data_Analyzerv4" expanded="True">
+            <Node name="Sales_Data_Analyzerv4" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
