@@ -1,0 +1,15 @@
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/bin/Debug/RockPaperScissor.exe.config
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/bin/Debug/RockPaperScissor.exe
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/bin/Debug/RockPaperScissor.pdb
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/obj/Debug/RockPaperScissor.csproj.AssemblyReference.cache
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/obj/Debug/RockPaperScissor.csproj.SuggestedBindingRedirects.cache
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/obj/Debug/RockPaperScissor.csproj.CoreCompileInputs.cache
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/obj/Debug/RockPaperScissor.exe
+C:/Users/ziyad/source/repos/RockPaperScissor/RockPaperScissor/obj/Debug/RockPaperScissor.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/FinalProject/obj/Debug/RockPaperScissor.exe
+/Users/andrewcaskey/Desktop/IT2040/IT2040/FinalProject/obj/Debug/RockPaperScissor.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/FinalProject/bin/Debug/RockPaperScissor.exe.config
+/Users/andrewcaskey/Desktop/IT2040/IT2040/FinalProject/bin/Debug/RockPaperScissor.exe
+/Users/andrewcaskey/Desktop/IT2040/IT2040/FinalProject/bin/Debug/RockPaperScissor.pdb
+/Users/andrewcaskey/Desktop/IT2040/IT2040/FinalProject/obj/Debug/RockPaperScissor.csproj.AssemblyReference.cache
+/Users/andrewcaskey/Desktop/IT2040/IT2040/FinalProject/obj/Debug/RockPaperScissor.csproj.CoreCompileInputs.cache
